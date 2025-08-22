@@ -1,6 +1,6 @@
 # 🏨 Hotel Demand Prediction
 
-![Hotel-Demand-Prediction](valeriia-bugaiova-_pPHgeHz1uk-unsplash.jpg)
+![Hotel-Demand-Prediction](products/Hotel.gif)
 
 This project aims to build a machine learning model to predict hotel booking cancellations. By analyzing historical booking data, the model assists hotels in optimizing overbooking strategies and improving revenue management.
 
