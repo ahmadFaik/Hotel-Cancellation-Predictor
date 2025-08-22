@@ -72,7 +72,7 @@ To build a classification model that accurately predicts whether a hotel booking
 
 ## 📄 Author
 Ahmad Faik — Data Scientist passionate about using machine learning to solve real-world business problems.  
-[GitHub](https://github.com/ahmadFaik) | [LinkedIn](https://linkedin.com/in/ahmadfaik)
+[GitHub](https://github.com/ahmadFaik) | [LinkedIn](https://www.linkedin.com/in/ahmad-faik-5b64b0308/)
 
 ---
 
